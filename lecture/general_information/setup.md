@@ -25,15 +25,15 @@ To get the most out of the course, we ask that you arrive with the following sof
 Select the tab that corresponds to your operating system and follow the instructions therein.
 
 ```{tabbed} Windows
-
+For windows X
 ```
 
 ```{tabbed} Linux
-
+For Linux
 ```
 
 ```{tabbed} MacOs
-
+For MacOs
 ```
 
 **Note**: If the instructions aren't working and you have spent more than 15-20 minutes troubleshooting on your own, reach out on the #help-installation channel on the Discord channel with the exact problems you're having.

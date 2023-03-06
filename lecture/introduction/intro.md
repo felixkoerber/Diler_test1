@@ -3,7 +3,7 @@
 
 In the first block of this course we will focus on X
 
-#### Objectives 📍
+## Objectives 📍
 - Get to know each other
 - Provide general information about the course
     - When & Where?
@@ -14,12 +14,12 @@ In the first block of this course we will focus on X
 - Ask and answer questions
 - Have a great time
 
-#### Prerequisities
+## Prerequisities
 
 - list prerequisities
 - refer back to setup page
 
-#### Materials 
+## Materials 
 
 
 ## Schedule
