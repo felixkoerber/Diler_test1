@@ -9,7 +9,7 @@ In the first block of this course we will focus on X
     - When & Where?
     - Who?
     - What?
-    - How?
+    - How?sfasj
 - get the necessary software  
 - Ask and answer questions
 - Have a great time
