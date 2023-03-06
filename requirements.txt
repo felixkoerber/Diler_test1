@@ -1,5 +1,9 @@
+jupyter-book
+matplotlib
+numpy
+sphinx-inline-tabs
+pandas
 sphinx-book-theme
 myst-nb
 ghp-import
-jupyter-book
 jupytext
